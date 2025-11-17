@@ -82,7 +82,8 @@ npm install
 npm run dev
 
 ## 📁 Project Structure
-<img width="662" height="493" alt="image" src="https://github.com/user-attachments/assets/54bd3740-f6d8-4d50-b68e-36acce4df43e" />
+<img width="683" height="565" alt="image" src="https://github.com/user-attachments/assets/f3204c4f-2aaf-4df5-adbd-c631c9de813b" />
+
 <img width="683" height="565" alt="image" src="https://github.com/user-attachments/assets/55139c74-842b-46c9-9f32-6f98755af260" />
 
 
